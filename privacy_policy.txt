@@ -1,35 +1,114 @@
-Privacy Policy for "BMI Calculator" Application
+This policy is also published at https://tahatec.com/privacy/bmi-calculator
 
-This Privacy Policy explains how we treat your information when you use the "BMI Calculator" mobile application ("the App").
+Privacy Policy — BMI Calculator
 
-Introduction
+Package com.tahatec.bmi_calculator · Published by Tahatec · Effective 17 October 2026
 
-We respect the privacy of our users. This Privacy Policy explains how we do not collect, use, disclose, or otherwise process personal information in relation to our mobile application.
+BMI Calculator (“the app”) calculates body mass index for adults and BMI-for-age
+percentiles for children and teens aged 2–19, together with body fat, ideal weight,
+calorie, macro, water and waist-ratio tools, a goal planner and a weight history. This policy
+explains what the app does with the information you enter.
 
-Information We Do Not Collect
+Your measurements stay on your device
 
-When you interact with our App, we do not collect or process any personal data, such as your name, email address, telephone number, or other personally identifiable information.
+Everything you enter — height, weight, age or date of birth, sex, name, waist, neck and
+hip measurements, goal weight and your weight history — is stored only on your device and is
+never uploaded by the app. The developer has no access to it. You can delete
+history entries in the app, and exporting your history as a CSV file happens only when you
+choose to share it, to a destination you pick.
 
-We do not track or collect any information about your movements within the App, or information regarding your device or operating system.
+If Android backup is turned on for your Google account, Android may include the
+app’s stored data in that backup. You can turn backup off in Android settings.
 
-We do not collect any user data in the background or foreground of the App.
+What leaves your device
 
-Cookies
+Advertising. The app shows banner and full-screen ads from Google AdMob, with Meta
+Audience Network as a mediation partner. To select and measure ads, these providers may
+collect your device’s advertising ID, your IP address and the approximate location it
+implies, and device, app and ad-interaction information. In the European Economic Area, the
+United Kingdom and other regions where it is required, the app asks for your choice through
+Google’s User Messaging Platform before any ad is requested, and you can change it at any
+time from Ad privacy options in the app, which appears where it is required.
 
-Our App does not use cookies or similar tracking technologies to track the activity on our Service and hold certain information.
+Google’s policy: policies.google.com/privacy (https://policies.google.com/privacy)
+How Google uses data from apps that use its services: policies.google.com/technologies/partner-sites (https://policies.google.com/technologies/partner-sites)
+Meta’s policy: facebook.com/privacy/policy (https://www.facebook.com/privacy/policy)
 
-Third-party Services
+Analytics. The app uses Google Analytics for Firebase to see which features
+are used. Events record which calculators and screens are used, the unit system, and the
+BMI category of a result (for example “healthy” or
+“overweight”; for the child and teen calculator, the child weight category and
+whether age came from a birth date or a number of years). Events
+never contain a height, weight, age, date of birth, name or BMI value. Firebase also records some information automatically: an app-instance
+identifier, the device model, the operating-system and app versions, the app language, and an
+approximate country derived from your IP address, along with standard events such as the first
+open and the start of a session. You can turn analytics off at any time with Share anonymous usage data under
+More → Privacy; this does not turn off crash reporting.
 
-Our App does not include or offer third-party products or services.
+Crash reporting. Firebase Crashlytics receives a report when the app
+crashes: the error and stack trace, the device model, the operating-system and app versions,
+and an installation identifier.
 
-Children's Privacy
+Reminders and messaging. Daily weigh-in reminders are optional, scheduled
+on your device, and request notification permission only when you switch them on. The app
+also includes Firebase Cloud Messaging, which may register a messaging token for the
+installation, but the app does not currently subscribe you to any announcements.
 
-Our App does not collect information from children under the age of 13 since we do not collect any user data at all.
+Health information
 
-Changes to This Privacy Policy
+Results are estimates for general information and are not a medical diagnosis. The only
+health-related value that leaves your device is the BMI category in analytics, described
+above, which is not linked to your name or measurements.
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Permissions
 
-Contact Us
+- Internet and network state — ads, analytics and crash reports.
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+- Notifications — weigh-in reminders, requested only when you turn them on.
+
+- Run at startup — re-scheduling your reminder after the phone restarts.
+
+- The advertising and Firebase components add the advertising ID, Privacy Sandbox
+(ad services), install-referrer and wake-lock permissions.
+
+What the app does not do
+
+- No account, sign-in or registration.
+
+- No upload of your measurements, profile or history.
+
+- No access to your contacts, photos, files, microphone or location.
+
+- No sale of personal data.
+
+Children
+
+The app is not directed at children under 13 and does not knowingly collect personal
+information from them. Measurements entered in the child and teen calculator stay on the device;
+only the resulting weight category is sent to analytics, as described above, and it can be
+switched off.
+
+Your choices
+
+- Turn analytics off: More → Privacy → Share anonymous usage data.
+
+- Change your ad choice: More → Privacy → Ad privacy options, where offered.
+
+- Reset or delete your advertising ID: Android Settings → Privacy → Ads.
+
+- Remove everything the app stored on your device: uninstall it, or clear its storage from
+Android Settings → Apps.
+
+- For data held by Google or Meta under their own identifiers, use their controls linked
+above, or write to us and we will help where we can.
+
+Changes
+
+If this policy changes, the updated version is published at this address with a new
+effective date.
+
+Contact
+
+support@tahatec.com
+
+Tahatec · tahatec.com
